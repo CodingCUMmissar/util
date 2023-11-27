@@ -4,8 +4,10 @@ import (
 	"log"
 	"time"
 
-	funcs "github.com/SpaceDiverr/util"
+	util "github.com/SpaceDiverr/util/funcs"
 )
+
+const Name := util.
 
 /*
 Decorator.
