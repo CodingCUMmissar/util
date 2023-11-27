@@ -1,3 +1,3 @@
-module github.com/SpaceDiver/util/funcs
+module github.com/SpaceDiverr/util/funcs
 
 go 1.18
