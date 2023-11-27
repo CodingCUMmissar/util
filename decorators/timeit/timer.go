@@ -1,9 +1,10 @@
 package timer
 
 import (
-	"funcs"
 	"log"
 	"time"
+
+	funcs "github.com/SpaceDiverr/util"
 )
 
 /*
