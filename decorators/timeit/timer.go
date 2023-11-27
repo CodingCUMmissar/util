@@ -7,7 +7,6 @@ import (
 	util "github.com/SpaceDiverr/util/funcs"
 )
 
-const Name := util.
 
 /*
 Decorator.
