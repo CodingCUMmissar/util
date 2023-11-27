@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	util "github.com/SpaceDiverr/util/funcs"
+	funcs "github.com/SpaceDiverr/util/funcs"
 )
 
 
